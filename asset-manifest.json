@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.093fcaa0.css",
-    "main.js": "/static/js/main.88974ce3.js",
+    "main.css": "/static/css/main.52d1bc59.css",
+    "main.js": "/static/js/main.e51c94a8.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/blueapron.png": "/static/media/blueapron.f839aebf7f20ca818edb.png",
     "static/media/Screenshot (251).png": "/static/media/Screenshot (251).3d7e58d9c076ce34e81b.png",
+    "static/media/Wellfit.png": "/static/media/Wellfit.8ba65f60c3b99c216de8.png",
     "static/media/porto2.png": "/static/media/porto2.02b98025c154de7dc440.png",
     "static/media/logon.png": "/static/media/logon.049bdc617fb1dd8af4f4.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.093fcaa0.css.map": "/static/css/main.093fcaa0.css.map",
-    "main.88974ce3.js.map": "/static/js/main.88974ce3.js.map",
+    "main.52d1bc59.css.map": "/static/css/main.52d1bc59.css.map",
+    "main.e51c94a8.js.map": "/static/js/main.e51c94a8.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.093fcaa0.css",
-    "static/js/main.88974ce3.js"
+    "static/css/main.52d1bc59.css",
+    "static/js/main.e51c94a8.js"
   ]
 }
